@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: rgb(226, 160, 61);
+    color: rgb(219, 58, 30);
     text-align: center;
 }
 
@@ -60,7 +60,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #23b123be;
     overflow: hidden;
 }
 
