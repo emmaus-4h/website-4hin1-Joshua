@@ -41,6 +41,10 @@ img.zweefLinks {
     margin-right: 15px;
 }
 
+img.zweefrechts {
+  float: right;
+  margin-right: 15px;
+}
 .smalltext {
     font-size: 0.7em;
 }
@@ -81,7 +85,7 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: rgb(235, 69, 18);
 }
 
 
