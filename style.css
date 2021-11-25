@@ -1,4 +1,9 @@
-
+*{
+  border: solid 2px black;
+  overflow: auto;
+  margin: 0px;
+  boxsizing: border-box;
+}
 
 
 /* Basislayout */
@@ -44,8 +49,13 @@ img.zweefLinks {
     margin: 15px;
     width: 400px;
     height: 200px;
-
 }
+img.eigenplaatje {
+  float: left;
+    margin: 15px;
+    width: 400px;
+    height: 200px;
+    }
 
 img.zweefrechts {
   float: right;
