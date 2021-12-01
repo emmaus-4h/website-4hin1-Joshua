@@ -2,7 +2,7 @@
   border: solid 2px black;
   overflow: auto;
   margin: 0px;
-  boxsizing: border-box;
+  box-sizing: border-box;
 }
 
 
@@ -46,15 +46,20 @@ footer {
 
 img.zweefLinks {
     float: left;
-    margin: 15px;
-    width: 400px;
-    height: 200px;
+    margin-left: 15px;
+
 }
 img.eigenplaatje {
   float: left;
     margin: 15px;
     width: 400px;
     height: 200px;
+    }
+    img.eigenplaatje1 {
+      float: left;
+      margin: 15px;
+      width:400px;
+      height:200px;
     }
 
 img.zweefrechts {
