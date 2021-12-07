@@ -11,7 +11,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color: rgba(146, 41, 216, 0.842);  
     
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
