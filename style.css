@@ -72,6 +72,21 @@ img.zweefrechts {
   float: right;
   margin-right: 15px;
 }
+img.lilniger {
+  margin-right: auto;
+  width: 200px;
+display: block;
+length: auto;
+float: left;
+}
+img.lilniger2 {
+  margin-left: auto;
+  width: 350px;
+display: block;
+length: auto;
+float: right;
+}
+
 
 { 
   border: solid 2px black;
