@@ -42,7 +42,7 @@ footer {
 }
 
 
-/* specifieke stijlen */
+/* specifieke stijlen voor alle pagina's */
 
 img.zweefLinks {
     float: left;
@@ -105,6 +105,14 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+
+/* specifieke stijlen voor mijn-team pagina */
+.midden {
+  display:block;
+  width:50%;
+  margin: auto;
 }
 
 
